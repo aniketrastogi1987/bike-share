@@ -1,0 +1,5 @@
+[
+  "tests/test_features.py::test_outlier_variable_transformer",
+  "tests/test_features.py::test_weathersit_transformer",
+  "tests/test_predictions.py::test_make_prediction"
+]
